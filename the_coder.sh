@@ -1,3 +1,3 @@
-"Angel kibui "
- "Sarah Gasaro"
- "Darcy Mbanza"
+echo"Angel kibui "
+echo "Sarah Gasaro"
+echo"Darcy Mbanza"
