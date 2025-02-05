@@ -16,3 +16,4 @@ echo -e "1. Tesy/n2.Paula/n3.Cindy/n"> cohort-3.txt
 cat 'cohort-1.txt'
 #searching a student name in file without opening file.
 grep 'Darcy''cohort-1.txt'
+#this is the updated script
